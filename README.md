@@ -26,7 +26,7 @@ No existing tool offered a realistic social media feed that researchers control,
 SocialEyes runs an Instagram-style feed on a phone while participants wear eye-tracking glasses, and shows
 exactly where people looked on each post.
 
-- **Users:** a team of 10 UBC researchers studying attention and gaze on social media. **Pilot underway.**
+- **Users:** a team of 8 UBC researchers studying attention and gaze on social media. **Pilot underway.**
 - **Shipped:** a phone app, a desktop app with a guided study builder and a Windows installer, and the
   analysis from raw gaze to tidy tables
 - **Product calls:** never delete data automatically; keep analysis blinded until the plan is fixed; ship
