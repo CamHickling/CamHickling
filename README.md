@@ -1,7 +1,7 @@
 ### Hi, I'm Cam 👋
 
 I build products for research teams. I start with the problem they can't solve, decide what to build
-and what to leave out, ship it to the people who need it, and keep improving it from what the data shows.
+and what to leave out, ship it to the people who need it, and keep improving it based on what the data shows.
 
 📍 Vancouver, BC · [LinkedIn](https://www.linkedin.com/in/camhickling/)
 
@@ -17,7 +17,7 @@ and lined up precisely. Nothing available could do it, so I built the pipeline f
 - **[FlowAnalytics](https://github.com/CamHickling/FlowAnalytics)** turns each session into a synced review
   video and data ready to code.
 
-**Impact:** 10 researchers · 50 participants · 60+ trials · **no lost sessions** · **90+ hours** of manual
+**Impact:** 10 researchers · 50 participants · 60+ trials · 1+ TB of data managed ·  **no lost sessions** · **90+ hours** of manual
 alignment cut · made motion and facial analysis possible. The study is now in analysis, ahead of publication.
 
 #### 👁️ [SocialEyes](https://github.com/CamHickling/SocialEyes): realistic social media experiments with eye tracking
