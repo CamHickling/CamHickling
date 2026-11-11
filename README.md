@@ -1,4 +1,4 @@
-### Hi, I'm Cam 👋
+## Hi, I'm Cam 👋
 
 I build products for research teams. I start with the problem they can't solve, decide what to build
 and what to leave out, ship it to the people who need it, and keep improving it based on what the data shows.
