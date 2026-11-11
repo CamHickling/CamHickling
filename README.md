@@ -7,29 +7,7 @@ and what to leave out, ship it to the people who need it, and keep improving it 
 
 ---
 
-### 🥋 A study of athletes "in the zone" that couldn't have run without the tools I built
-
-The UBC Brain, Attention and Reality Lab needed cameras, heart rate and spoken narration recorded together
-and lined up precisely. Nothing available could do it, so I built the pipeline from capture to analysis.
-
-**My first version failed its pilots.** It only worked if the operator did everything perfectly, and the
-3 pilot sessions had partial data loss, mistimed cues and nervous experimenters. I redesigned Iris as a 7-step
-recipe where each step unlocks only when the one before it is done, logged every event to one shared timeline,
-and moved heavy processing to after the session. Since then: **zero lost sessions across 50 participants.**
-
-<p align="center">
-  <a href="https://github.com/CamHickling/Iris"><img src="https://raw.githubusercontent.com/CamHickling/Iris/main/video/iris-15s.gif" width="600" alt="15-second demo of Iris with simulated devices: a checklist unlocks the next phase, six devices turn green, recording starts, and every device is logged to one shared timeline"></a>
-</p>
-
-- **[Iris](https://github.com/CamHickling/Iris)** runs each lab session: every camera, the heart-rate strap and
-  the microphone from one app, on one shared timeline.
-- **[FlowAnalytics](https://github.com/CamHickling/FlowAnalytics)** turns each session into a synced review
-  video and data ready for researchers to analyse.
-
-**Impact:** **90+ hours** of manual alignment cut, a review video for every trial, and motion and facial
-analysis the lab couldn't do before. The study is now in analysis, ahead of publication.
-
-### 👁️ [SocialEyes](https://github.com/CamHickling/SocialEyes): realistic social media experiments with eye tracking
+### 👁️ [SocialEyes](https://github.com/CamHickling/SocialEyes): the first open-source phone social media feed with eye tracking
 
 No existing tool offered a realistic social media feed that researchers control, with eye tracking built in.
 SocialEyes runs a researcher-controlled feed on a phone while participants wear eye-tracking glasses, with
@@ -51,6 +29,28 @@ the app and glasses kept in sync. Mapping gaze onto each post is the next part b
   comment lines, so SocialEyes doesn't claim to know which comment someone read.
 - **Product calls:** never delete data automatically; lock the analysis plan before anyone sees the results, so
   findings can't be cherry-picked; ship unproven features marked *Experimental*
+
+### 🥋 Iris + FlowAnalytics: a synced capture + analytics platform for movement science research
+
+The UBC Brain, Attention and Reality Lab needed cameras, heart rate and spoken narration recorded together
+and lined up precisely. Nothing available could do it, so I built the pipeline from capture to analysis.
+
+**My first version failed its pilots.** It only worked if the operator did everything perfectly, and the
+3 pilot sessions had partial data loss, mistimed cues and nervous experimenters. I redesigned Iris as a 7-step
+recipe where each step unlocks only when the one before it is done, logged every event to one shared timeline,
+and moved heavy processing to after the session. Since then: **zero lost sessions across 50 participants.**
+
+<p align="center">
+  <a href="https://github.com/CamHickling/Iris"><img src="https://raw.githubusercontent.com/CamHickling/Iris/main/video/iris-15s.gif" width="600" alt="15-second demo of Iris with simulated devices: a checklist unlocks the next phase, six devices turn green, recording starts, and every device is logged to one shared timeline"></a>
+</p>
+
+- **[Iris](https://github.com/CamHickling/Iris)** runs each lab session: every camera, the heart-rate strap and
+  the microphone from one app, on one shared timeline.
+- **[FlowAnalytics](https://github.com/CamHickling/FlowAnalytics)** turns each session into a synced review
+  video and data ready for researchers to analyse.
+
+**Impact:** **90+ hours** of manual alignment cut, a review video for every trial, and motion and facial
+analysis the lab couldn't do before. The study is now in analysis, ahead of publication.
 
 ---
 
