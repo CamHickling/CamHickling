@@ -7,7 +7,7 @@ and what to leave out, ship it to the people who need it, and keep improving it 
 
 ---
 
-#### 🥋 A study of athletes "in the zone" that couldn't have run without the tools I built
+### 🥋 A study of athletes "in the zone" that couldn't have run without the tools I built
 
 The UBC Brain, Attention and Reality Lab needed cameras, heart rate and spoken narration recorded together
 and lined up precisely. Nothing available could do it, so I built the pipeline from capture to analysis.
@@ -29,7 +29,7 @@ and moved heavy processing to after the session. Since then: **zero lost session
 **Impact:** **90+ hours** of manual alignment cut, a review video for every trial, and motion and facial
 analysis the lab couldn't do before. The study is now in analysis, ahead of publication.
 
-#### 👁️ [SocialEyes](https://github.com/CamHickling/SocialEyes): realistic social media experiments with eye tracking
+### 👁️ [SocialEyes](https://github.com/CamHickling/SocialEyes): realistic social media experiments with eye tracking
 
 No existing tool offered a realistic social media feed that researchers control, with eye tracking built in.
 SocialEyes runs a researcher-controlled feed on a phone while participants wear eye-tracking glasses, with
