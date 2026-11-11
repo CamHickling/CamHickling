@@ -49,7 +49,7 @@ and moved heavy processing to after the session. Since then: **zero lost session
 - **[FlowAnalytics](https://github.com/CamHickling/FlowAnalytics)** turns each session into a synced review
   video and data ready for researchers to analyse.
 
-**Impact:** **90+ hours** of manual alignment cut, a review video for every trial, and motion and facial
+**Impact:** **120 hours** of manual alignment cut, a review video for every trial, and motion and facial
 analysis the lab couldn't do before. The study is now in analysis, ahead of publication.
 
 ---
