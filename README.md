@@ -30,7 +30,7 @@ the app and glasses kept in sync. Mapping gaze onto each post is the next part b
 - **Product calls:** never delete data automatically; lock the analysis plan before anyone sees the results, so
   findings can't be cherry-picked; ship unproven features marked *Experimental*
 
-### 🥋 Iris + FlowAnalytics: a synced capture + analytics platform for movement science research
+### 🥋 [Iris](https://github.com/CamHickling/Iris) + [FlowAnalytics](https://github.com/CamHickling/FlowAnalytics): a synced capture + analytics platform for movement science research
 
 The UBC Brain, Attention and Reality Lab needed cameras, heart rate and spoken narration recorded together
 and lined up precisely. Nothing available could do it, so I built the pipeline from capture to analysis.
