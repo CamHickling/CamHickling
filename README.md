@@ -1,6 +1,6 @@
 ## Hi, I'm Cam 👋
 
-I build products for research teams. I start with the problem they can't solve, decide what to build
+I build products for research teams and small businesses. I start with the problem they can't solve, decide what to build
 and what to leave out, ship it to the people who need it, and keep improving it based on what the data shows.
 
 📍 Vancouver, BC · [LinkedIn](https://www.linkedin.com/in/camhickling/)
@@ -51,6 +51,25 @@ and moved heavy processing to after the session. Since then: **zero lost session
 
 **Impact:** **120 hours** of manual alignment cut, a review video for every trial, and motion and facial
 analysis the lab couldn't do before. The study is now in analysis, ahead of publication.
+
+### 🏷️ [StockSync](https://github.com/CamHickling/StockSync): count a shelf, see where Shopify and Lightspeed disagree
+
+At Bici, a Vancouver bike shop, we sold through Lightspeed in store and Shopify online, and the two
+drifted away from what was on the shelves. I built a spreadsheet, then a tool, for recounts of 200+
+products, and **the counts were always off, often by up to 5%.** StockSync is that tool rebuilt as open source:
+scan a shelf with any barcode scanner and see what's missing, what's misplaced, and where the two
+systems disagree.
+
+<p align="center">
+  <a href="https://camhickling.github.io/StockSync/"><img src="https://raw.githubusercontent.com/CamHickling/StockSync/main/video/stocksync-15s.gif" width="600" alt="15-second demo of StockSync with a sample bike shop: barcode scans fill in the report for one shelf, a missing bike is marked missing, and a filter shows a bike that Shopify and Lightspeed list differently"></a>
+</p>
+
+- **[Try it in your browser](https://camhickling.github.io/StockSync/)** with a sample shop: no login,
+  and store data never leaves the computer
+- **Product calls:** compare the shelf with both systems at once, since the costly problem is the two
+  channels drifting apart; never guess on a barcode shared by several items; "Missing" needs a person to confirm it
+- **Built as product manager with an AI coding agent:** I wrote the brief and made the decisions; the agent
+  wrote the code and tests, which I reviewed on desktop and phone
 
 ---
 
